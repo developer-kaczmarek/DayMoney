@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Day Money</string>
+    <string name="money_left">Осталось</string>
+    <string name="recalculate">Пересчитать</string>
+    <string name="select_count_day_description">Показывать сумму с учетом текущего дня</string>
+    <string name="total_amount_with_currency_sign">%s ₽</string>
+    <string name="error_money_on_day_is_null_or_empty">Введите количество денег на день</string>
+    <string name="money_on_day_default" translatable="false">500.0</string>
+    <string name="more_money_on_day_description">При такой деньщине вам нужно более серьезное приложение 😅</string>
+</resources>
